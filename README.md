@@ -1,1 +1,2 @@
-# WebProgramlama
+# B171210390 Atakan SOYLU 1-A
+# B171210093 Ömer DENİZ 2-A
