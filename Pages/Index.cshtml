@@ -1,0 +1,14 @@
+﻿@page
+@using WebApplication3.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+@(await Html.RenderComponentAsync<UrunlerList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
+
+
